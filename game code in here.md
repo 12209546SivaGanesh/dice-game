@@ -17,3 +17,4 @@ while playerchoice=="y":
     print("do you want to continue? Type 'y' for yes and 'n' for no")
     playerchoice=input()  
 
+# hi make it more simple
